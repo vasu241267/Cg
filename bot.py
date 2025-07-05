@@ -8,8 +8,8 @@ from datetime import datetime
 from p import check_card  # Make sure check_card(cc_line) is in p.py
 
 # BOT Configuration
-BOT_TOKEN = '7881588527:AAHApss63yicaGs0NLA'   
-ADMIN_ID = 5248903529  # Replace with your Telegram user ID (int)
+BOT_TOKEN = '7881588527:8071747780:AAF_oRPKCf38r2vBlgGEkPQzfQeFAsN5H0k'   
+ADMIN_ID = 6972264549  # Replace with your Telegram user ID (int)
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
@@ -141,7 +141,7 @@ def b3_handler(msg):
 ⟡ ᴏɴʟʏ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴍᴇᴍʙᴇʀꜱ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ
 
 ✧ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ꜰᴏʀ ᴀᴜᴛʜᴏʀɪᴢᴀᴛɪᴏɴ
-✧ ᴀᴅᴍɪɴ: @SUKHX_7171""")
+✧ ᴀᴅᴍɪɴ: @imvasupareek""")
 
     cc = None
 
@@ -205,7 +205,7 @@ def mb3_handler(msg):
 ⟡ ᴏɴʟʏ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴍᴇᴍʙᴇʀꜱ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ
 
 ✧ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ꜰᴏʀ ᴀᴜᴛʜᴏʀɪᴢᴀᴛɪᴏɴ
-✧ ᴀᴅᴍɪɴ: @SUKHX_7171""")
+✧ ᴀᴅᴍɪɴ: @imvasupareek""")
 
     if not msg.reply_to_message:
         return bot.reply_to(msg, "✦━━━[ ᴡʀᴏɴɢ ᴜꜱᴀɢᴇ ]━━━✦\n\n"
